@@ -1,0 +1,37 @@
+,Label,Metric,A12,P-value
+0,Measurement,Precision,"(0.27249999999999996, 'Large')",0.013833498919863277
+1,Measurement,Recall,"(0.0, 'Large')",6.301848221392269e-08
+2,Measurement,F1-score,"(0.0, 'Large')",6.301848221392269e-08
+3,Measurement,F2-score,"(0.0, 'Large')",6.301848221392269e-08
+4,Temperature,Precision,"(0.585, 'negligible')",0.35772797019341296
+5,Temperature,Recall,"(0.0, 'Large')",6.301848221392269e-08
+6,Temperature,F1-score,"(0.0, 'Large')",6.301848221392269e-08
+7,Temperature,F2-score,"(0.0, 'Large')",6.301848221392269e-08
+8,Mass,Precision,"(0.685, 'Medium')",0.045316297
+9,Mass,Recall,"(0.0, 'Large')",6.301848221392269e-08
+10,Mass,F1-score,"(0.0, 'Large')",6.301848221392269e-08
+11,Mass,F2-score,"(0.0, 'Large')",6.301848221392269e-08
+12,Size,Precision,"(0.21750000000000003, 'Large')",0.002238179
+13,Size,Recall,"(0.42000000000000004, 'Small')",0.38670799255173705
+14,Size,F1-score,"(0.16500000000000004, 'Large')",0.000289284
+15,Size,F2-score,"(0.26749999999999996, 'Large')",0.011881031549672502
+16,Time Constraint,Precision,"(0.535, 'negligible')",0.7049097275727512
+17,Time Constraint,Recall,"(1.0, 'Large')",6.301848221392269e-08
+18,Time Constraint,F1-score,"(1.0, 'Large')",6.301848221392269e-08
+19,Time Constraint,F2-score,"(1.0, 'Large')",6.301848221392269e-08
+20,Non-labelData,Precision,"(0.17625000000000002, 'Large')",0.000460073
+21,Non-labelData,Recall,"(0.0, 'Large')",6.301848221392269e-08
+22,Non-labelData,F1-score,"(0.0, 'Large')",6.301848221392269e-08
+23,Non-labelData,F2-score,"(0.0, 'Large')",6.301848221392269e-08
+24,LabelData,Precision,"(0.6375, 'Small')",0.13681554418853384
+25,LabelData,Recall,"(0.0, 'Large')",6.301848221392269e-08
+26,LabelData,F1-score,"(0.0, 'Large')",6.301848221392269e-08
+27,LabelData,F2-score,"(0.0, 'Large')",6.301848221392269e-08
+28,Data,Precision,"(0.06999999999999995, 'Large')",3.2775134136970867e-06
+29,Data,Recall,"(0.0, 'Large')",6.301848221392269e-08
+30,Data,F1-score,"(0.0, 'Large')",6.301848221392269e-08
+31,Data,F2-score,"(0.0, 'Large')",6.301848221392269e-08
+32,Overall,Precision,"(0.22999999999999998, 'Large')",0.003484514
+33,Overall,Recall,"(0.11250000000000004, 'Large')",2.75576331793978e-05
+34,Overall,F1-score,"(0.0, 'Large')",6.301848221392269e-08
+35,Overall,F2-score,"(0.0675, 'Large')",2.873434661306939e-06
