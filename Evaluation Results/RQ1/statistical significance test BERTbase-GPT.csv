@@ -1,0 +1,37 @@
+,Label,Metric,A12,P-value
+0,Measurement,Precision,"(0.07250000000000001, 'Large')",3.74E-06
+1,Measurement,Recall,"(0.6525, 'Medium')",0.098931599
+2,Measurement,F-score,"(0.23250000000000004, 'Large')",0.003799329
+3,Measurement,F2-score,"(0.48, 'negligible')",0.828675411
+4,Temperature,Precision,"(0.595, 'Small')",0.303995278
+5,Temperature,Recall,"(0.3325, 'Medium')",0.069931212
+6,Temperature,F-score,"(0.4075, 'Small')",0.316897739
+7,Temperature,F2-score,"(0.3375, 'Medium')",0.078703997
+8,Mass,Precision,"(0.7875, 'Large')",0.001866064
+9,Mass,Recall,"(0.06000000000000005, 'Large')",1.93E-06
+10,Mass,F-score,"(0.05500000000000005, 'Large')",1.47E-06
+11,Mass,F2-score,"(0.050000000000000044, 'Large')",1.12E-06
+12,Size,Precision,"(0.18999999999999995, 'Large')",0.000795916
+13,Size,Recall,"(0.6012500000000001, 'negligible')",0.27328512
+14,Size,F-score,"(0.21875, 'Large')",0.002341273
+15,Size,F2-score,"(0.365, 'Small')",0.144096469
+16,Time Constraint,Precision,"(0.6575, 'Medium')",0.08835202
+17,Time Constraint,Recall,"(1.0, 'Large')",6.30E-08
+18,Time Constraint,F-score,"(1.0, 'Large')",6.30E-08
+19,Time Constraint,F2-score,"(1.0, 'Large')",6.30E-08
+20,Non-labelData,Precision,"(0.44499999999999995, 'negligible')",0.551775319
+21,Non-labelData,Recall,"(0.42500000000000004, 'Small')",0.41707706
+22,Non-labelData,F-score,"(0.39749999999999996, 'Small')",0.267407038
+23,Non-labelData,F2-score,"(0.4525, 'negligible')",0.607285766
+24,LabelData,Precision,"(0.75, 'Large')",0.006830256
+25,LabelData,Recall,"(0.025000000000000022, 'Large')",2.75E-07
+26,LabelData,F-score,"(0.11250000000000004, 'Large')",2.76E-05
+27,LabelData,F2-score,"(0.03749999999999998, 'Large')",5.61E-07
+28,Data,Precision,"(0.835, 'Large')",0.000289284
+29,Data,Recall,"(0.1975, 'Large')",0.001063896
+30,Data,F-score,"(0.39625, 'Small')",0.261616468
+31,Data,F2-score,"(0.21499999999999997, 'Large')",0.002044367
+32,Overall,Precision,"(0.235, 'Large')",0.00413978
+33,Overall,Recall,"(0.805, 'Large')",0.000966466
+34,Overall,F-score,"(0.6625, 'Medium')",0.078703997
+35,Overall,F2-score,"(0.7825, 'Large')",0.002238179
